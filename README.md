@@ -1,6 +1,6 @@
 # PausePlayVideo
 
-### Pause and play the video , dont through javascript , also added a preloader if the project takes time to load.
+### Pause and play the video , done through javascript , also added a preloader if the project takes time to load.
 
 
 # Technologies used: 
