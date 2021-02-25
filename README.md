@@ -2,6 +2,7 @@
 
 ### Pause and play the video , done through javascript , also added a preloader if the project takes time to load.
 
+### View my deployed at :- https://sahil9818336328.github.io/Pause-PlayVideo/
 
 # Technologies used: 
 
